@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.yourname.englishlive",
-    "sha256_cert_fingerprints": ["PLACEHOLDER_REPLACE_AFTER_PWABUILDER"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.english_live.twa",
+        "sha256_cert_fingerprints": ["72:81:19:7D:C6:80:65:C8:F3:CA:04:BE:0B:A3:67:C8:CD:A3:7E:EE:AD:D0:58:FE:C4:4D:2D:F0:E2:20:F9:2B"]
+      }
+    }]
